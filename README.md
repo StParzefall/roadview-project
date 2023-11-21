@@ -10,8 +10,8 @@ ROADVIEW is an EU-funded Horizon Europe Innovation Action aiming to develop robu
 |---------------------------------------------------------------------------------------------------|-----------------------------------------|-----------|---------|-------------|
 | Halmstad University                                                                               | School of Information Technology        | HH        |         | Sweden      |
 | Lapland University of Applied Sciences                                                            | FrostBit Software Lab                   | LUA       |         | Finland     |
-| University of Warwick                                                                             | National Automotive Innovation Center   | WMG       |         | UK          |
-| Technische Hochschule Ingolstadt                                                                  | CARISSMA Institute of Automated Driving | THI       |         | Germany     |
+| University of Warwick                                                                             | National Automotive Innovation Center   | WMG       | [link](https://warwick.ac.uk/fac/sci/wmg/)       | UK          |
+| Technische Hochschule Ingolstadt                                                                  | CARISSMA Institute of Automated Driving | THI       | [link](https://www.thi.de/en/research/carissma/c-iad/)        | Germany     |
 | Swedish National Road Transport Reseasch Institute                                                |                                         | VTI       |         | Sweden      |
 | CEREMA - Centre d etudes et d expertise sur les risques l environment la mobilite et l amengement |                                         | CE        |         | France      |
 | RISE Research Institutes of Sweden                                                                |                                         | RISE      |         | Sweden      |
