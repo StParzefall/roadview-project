@@ -14,7 +14,7 @@ ROADVIEW is an EU-funded Horizon Europe Innovation Action aiming to develop robu
 | Technische Hochschule Ingolstadt                                                                  | CARISSMA Institute of Automated Driving | THI       | [link](https://www.thi.de/en/research/carissma/c-iad/)        | Germany     |
 | Swedish National Road Transport Reseasch Institute                                                |                                         | VTI       |         | Sweden      |
 | CEREMA - Centre d etudes et d expertise sur les risques l environment la mobilite et l amengement |                                         | CE        |         | France      |
-| RISE Research Institutes of Sweden                                                                |Transport Construction Automotive IT and Telecom| RISE      | [site](https://www.ri.se/en/industry-or-sector)  | Sweden      |
+| RISE Research Institutes of Sweden                                                                |Transport Construction Automotive IT and Telecom| RISE      | [link](https://www.ri.se/en/industry-or-sector)  | Sweden      |
 | Finnish Geospatial Research Institute Remote Sensing and Photogrammetry                           |                                         | FGI       |         | Finland     |
 | Repli5 AG                                                                                         |                                         | Repli5    |         | Sweden      |
 | accelopment                                                                                       |                                         | AccelCH   |         | Switzerland |
