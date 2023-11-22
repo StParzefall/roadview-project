@@ -9,19 +9,19 @@ ROADVIEW is an EU-funded Horizon Europe Innovation Action aiming to develop robu
 | Partner Name                                                                                      | Sector                                  | Shortname | Website | Country     |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------|-----------|---------|-------------|
 | Halmstad University                                                                               | School of Information Technology        | HH        |         | Sweden      |
-| Lapland University of Applied Sciences                                                            | FrostBit Software Lab                   | LUA       |         | Finland     |
+| Lapland University of Applied Sciences                                                            | FrostBit Software Lab                   | LUA       | [site](https://www.lapinamk.fi/en/)      | Finland     |
 | University of Warwick                                                                             | National Automotive Innovation Center   | WMG       | [link](https://warwick.ac.uk/fac/sci/wmg/)       | UK          |
 | Technische Hochschule Ingolstadt                                                                  | CARISSMA Institute of Automated Driving | THI       | [link](https://www.thi.de/en/research/carissma/c-iad/)        | Germany     |
 | Swedish National Road Transport Reseasch Institute                                                |                                         | VTI       |         | Sweden      |
 | CEREMA - Centre d etudes et d expertise sur les risques l environment la mobilite et l amengement |                                         | CE        |         | France      |
-| RISE Research Institutes of Sweden                                                                |                                         | RISE      |         | Sweden      |
+| RISE Research Institutes of Sweden                                                                |Transport Construction Automotive IT and Telecom| RISE      | [https://www.ri.se/en/industry-or-sector](site)  | Sweden      |
 | Finnish Geospatial Research Institute Remote Sensing and Photogrammetry                           |                                         | FGI       |         | Finland     |
 | Repli5 AG                                                                                         |                                         | Repli5    |         | Sweden      |
 | accelopment                                                                                       |                                         | AccelCH   |         | Switzerland |
 | Konrad GmbH                                                                                       |                                         | KO        |         | Germany     |
-| Ford Otosan                                                                                       |                                         | FORD      |         | Turkey      |
+| Ford Otosan                                                                                       |Automotive OEM  | FORD      | [https://fordotosan.com.tr/en](link)        | Turkey      |
 | Canon Research Center                                                                             |                                         | CRF       |         | France      |
-| VTT                                                                                               |                                         | VTT       |         | Finland     |
+| VTT                                                                                               | Automated Vehicles research team  | VTT       | [VTT automated driving research](https://www.vttresearch.com/en/ourservices/automated-driving-and-smart-mobility-services) | Finland     |
 | AVL                                                                                               |                                         | AVL       |         | Germany     |
 
 
