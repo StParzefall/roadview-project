@@ -1,4 +1,4 @@
-## ROADVIEW Project
+![image](https://github.com/roadview-project/roadview-project/assets/149799818/0dcd5c89-5e17-47e3-a6c4-66671037ca7a)## ROADVIEW Project
 
 ### Robust Automated Driving in Extreme Weather
 
@@ -12,17 +12,17 @@ ROADVIEW is an EU-funded Horizon Europe Innovation Action aiming to develop robu
 | Lapland University of Applied Sciences                                                            | FrostBit Software Lab                   | LUA       | [link](https://www.lapinamk.fi/en/)      | Finland     |
 | University of Warwick                                                                             | National Automotive Innovation Center   | WMG       | [link](https://warwick.ac.uk/fac/sci/wmg/)       | UK          |
 | Technische Hochschule Ingolstadt                                                                  | CARISSMA Institute of Automated Driving | THI       | [link](https://www.thi.de/en/research/carissma/c-iad/)        | Germany     |
-| Swedish National Road Transport Reseasch Institute                                                |                                         | VTI       |         | Sweden      |
-| CEREMA - Centre d etudes et d expertise sur les risques l environment la mobilite et l amengement |                                         | CE        |         | France      |
+| Swedish National Road Transport Reseasch Institute                                                |Vehicle systems and Driving simulation| VTI       |         | Sweden      |
+| CEREMA - Centre d etudes et d expertise sur les risques l environment la mobilite et l amengement |Equipe-projet STI| CE        |         | France      |
 | RISE Research Institutes of Sweden                                                                |Transport Construction Automotive IT and Telecom| RISE      | [link](https://www.ri.se/en/industry-or-sector)  | Sweden      |
-| Finnish Geospatial Research Institute Remote Sensing and Photogrammetry                           |                                         | FGI       |         | Finland     |
+| Finnish Geospatial Research Institute Remote Sensing and Photogrammetry                           |Department of Remote Sensing and Photogrammetry| FGI       |   [link](https://www.maanmittauslaitos.fi/en/research)      | Finland     |
 | Repli5 AG                                                                                         |                                         | Repli5    |         | Sweden      |
-| accelopment                                                                                       |                                         | AccelCH   |         | Switzerland |
-| Konrad GmbH                                                                                       |                                         | KO        |         | Germany     |
+| accelopment Schweiz AG                                                                                       |EU project design and management| AccelCH   |  [link](https://accelopment.com/) | Switzerland |
+| Konrad GmbH                                                                                       |                                         | KO        |   [link](https://www.konrad-technologies.com/)      | Germany     |
 | Ford Otosan                                                                                       |Automotive OEM  | FORD      | [link](https://fordotosan.com.tr/en)        | Turkey      |
-| Canon Research Center                                                                             |                                         | CRF       |         | France      |
+| Canon Research Center France S.A.S.                                                                             |Research & Development Centre of Canon Group in Europe  - Video analytics and Cooperative Intelligent Transport Sustems.                                         | CRF       |   [link](https://www.crf.canon.fr/)      | France      |
 | VTT                                                                                               | Automated Vehicles research team  | VTT       | [link](https://www.vttresearch.com/en/ourservices/automated-driving-and-smart-mobility-services) | Finland     |
-| AVL                                                                                               |                                         | AVL       |         | Germany     |
+| AVL Deutschland                                                                                     |                                         | AVL       |         | Germany     |
 
 
 ### Acknoledgment
