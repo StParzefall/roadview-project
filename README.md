@@ -1,4 +1,4 @@
-![image](https://github.com/roadview-project/roadview-project/assets/149799818/0dcd5c89-5e17-47e3-a6c4-66671037ca7a)## ROADVIEW Project
+## ROADVIEW Project
 
 ### Robust Automated Driving in Extreme Weather
 
@@ -8,8 +8,8 @@ ROADVIEW is an EU-funded Horizon Europe Innovation Action aiming to develop robu
 
 | Partner Name                                                                                      | Sector                                  | Shortname | Website | Country     |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------|-----------|---------|-------------|
-| Halmstad University                                                                               | School of Information Technology        | HH        |         | Sweden      |
-| Lapland University of Applied Sciences                                                            | FrostBit Software Lab                   | LUA       | [link](https://www.lapinamk.fi/en/)      | Finland     |
+| Halmstad University                                                                               | School of Information Technology (ITE) - Center for Applied Intelligent Systems Research (CAISR)       | HH        |[link](https://www.hh.se/english.html) | Sweden      |
+| Lapland University of Applied Sciences                                                            | Digital Solutions, School of Arctic Natural Resources and Economy                  | LUA       | [link](https://www.lapinamk.fi/en/)      | Finland     |
 | University of Warwick                                                                             | National Automotive Innovation Center   | WMG       | [link](https://warwick.ac.uk/fac/sci/wmg/)       | UK          |
 | Technische Hochschule Ingolstadt                                                                  | CARISSMA Institute of Automated Driving | THI       | [link](https://www.thi.de/en/research/carissma/c-iad/)        | Germany     |
 | Swedish National Road Transport Reseasch Institute                                                |Vehicle systems and Driving simulation| VTI       |         | Sweden      |
