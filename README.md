@@ -9,7 +9,7 @@ ROADVIEW is an EU-funded Horizon Europe Innovation Action aiming to develop robu
 | Partner Name                                                                                      | Sector                                  | Shortname | Website | Country     |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------|-----------|---------|-------------|
 | Halmstad University                                                                               | School of Information Technology        | HH        |         | Sweden      |
-| Lapland University of Applied Sciences                                                            | FrostBit Software Lab                   | LUA       | [site](https://www.lapinamk.fi/en/)      | Finland     |
+| Lapland University of Applied Sciences                                                            | FrostBit Software Lab                   | LUA       | [link](https://www.lapinamk.fi/en/)      | Finland     |
 | University of Warwick                                                                             | National Automotive Innovation Center   | WMG       | [link](https://warwick.ac.uk/fac/sci/wmg/)       | UK          |
 | Technische Hochschule Ingolstadt                                                                  | CARISSMA Institute of Automated Driving | THI       | [link](https://www.thi.de/en/research/carissma/c-iad/)        | Germany     |
 | Swedish National Road Transport Reseasch Institute                                                |                                         | VTI       |         | Sweden      |
@@ -21,7 +21,7 @@ ROADVIEW is an EU-funded Horizon Europe Innovation Action aiming to develop robu
 | Konrad GmbH                                                                                       |                                         | KO        |         | Germany     |
 | Ford Otosan                                                                                       |Automotive OEM  | FORD      | [link](https://fordotosan.com.tr/en)        | Turkey      |
 | Canon Research Center                                                                             |                                         | CRF       |         | France      |
-| VTT                                                                                               | Automated Vehicles research team  | VTT       | [VTT automated driving research](https://www.vttresearch.com/en/ourservices/automated-driving-and-smart-mobility-services) | Finland     |
+| VTT                                                                                               | Automated Vehicles research team  | VTT       | [link](https://www.vttresearch.com/en/ourservices/automated-driving-and-smart-mobility-services) | Finland     |
 | AVL                                                                                               |                                         | AVL       |         | Germany     |
 
 
