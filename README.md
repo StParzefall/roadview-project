@@ -16,7 +16,7 @@ ROADVIEW is an EU-funded Horizon Europe Innovation Action aiming to develop robu
 | CEREMA  |ITS research team | CE        | [link](https://www.cerema.fr/en/innovation-recherche/recherche/equipes/its-intelligent-transport-systems-towards-greater-safety-and)    | France      |
 | RISE Research Institutes of Sweden                                                                |Transport Construction Automotive IT and Telecom| RISE      | [link](https://www.ri.se/en/industry-or-sector)  | Sweden      |
 | Finnish Geospatial Research Institute Remote Sensing and Photogrammetry                           |Department of Remote Sensing and Photogrammetry| FGI       |   [link](https://www.maanmittauslaitos.fi/en/research)      | Finland     |
-| Repli5 AG                                                                                         |                                         | Repli5    |         | Sweden      |
+| Repli5 AG                                                                                         |Synthetic 3D world generation tools and digital twins| Repli5    |  [link](repli5.com)    | Sweden      |
 | accelopment Schweiz AG                                                                                       |EU project design and management| AccelCH   |  [link](https://accelopment.com/) | Switzerland |
 | Konrad GmbH                                                                                       |                                         | KO        |   [link](https://www.konrad-technologies.com/)      | Germany     |
 | Ford Otosan                                                                                       |Automotive OEM  | FORD      | [link](https://fordotosan.com.tr/en)        | Turkey      |
