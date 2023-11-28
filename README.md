@@ -13,7 +13,7 @@ ROADVIEW is an EU-funded Horizon Europe Innovation Action aiming to develop robu
 | University of Warwick                                                                             | National Automotive Innovation Center   | WMG       | [link](https://warwick.ac.uk/fac/sci/wmg/)       | UK          |
 | Technische Hochschule Ingolstadt                                                                  | CARISSMA Institute of Automated Driving | THI       | [link](https://www.thi.de/en/research/carissma/c-iad/)        | Germany     |
 | Swedish National Road Transport Reseasch Institute                                                |Vehicle systems and Driving simulation| VTI       |         | Sweden      |
-| CEREMA - Centre d etudes et d expertise sur les risques l environment la mobilite et l amengement |Equipe-projet STI| CE        |         | France      |
+| CEREMA  |ITS research team | CE        | [link](https://www.cerema.fr/en/innovation-recherche/recherche/equipes/its-intelligent-transport-systems-towards-greater-safety-and)    | France      |
 | RISE Research Institutes of Sweden                                                                |Transport Construction Automotive IT and Telecom| RISE      | [link](https://www.ri.se/en/industry-or-sector)  | Sweden      |
 | Finnish Geospatial Research Institute Remote Sensing and Photogrammetry                           |Department of Remote Sensing and Photogrammetry| FGI       |   [link](https://www.maanmittauslaitos.fi/en/research)      | Finland     |
 | Repli5 AG                                                                                         |                                         | Repli5    |         | Sweden      |
